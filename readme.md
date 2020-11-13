@@ -89,11 +89,12 @@ a=2，b=5，求3(ab+a)-4(a-ab)
 * 整式方程中的**次**：方程中的项的最高次
 
 例题：
-       x+1=6    一元一次方程
 
-       2x+y=6        二元一次方程
+x+1=6    ——一元一次方程
 
-       xy=1   二元二次方程
+2x+y=6        ——二元一次方程
+
+xy=1   ——二元二次方程
 
 ![images](https://github.com/mikusensei/2020-autumn/blob/main/IMG_0052.PNG?raw=ture)   ——分式方程
 
