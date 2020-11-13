@@ -74,7 +74,7 @@ a=2，b=5，求3(ab+a)-4(a-ab)
 ```
 例：
 2x+y=1      ——整式方程
-![images] (https://raw.githubusercontent.com/mikusensei/2020-autumn/main/IMG_0051.PNG)  ——分式方程
+![images](https://raw.githubusercontent.com/mikusensei/2020-autumn/main/IMG_0051.PNG)  ——分式方程
 ```
 * 整式方程中的**元**：未知数的种类
 * 整式方程中的**次**：方程中的项的最高次
@@ -83,6 +83,6 @@ a=2，b=5，求3(ab+a)-4(a-ab)
 x+1=6       一元一次方程
 2x+y=6      二元一次方程
 xy=1        二元二次方程
-[IMG_0052.PNG]。   分式方程
+![images](   分式方程
 ```
 - - - -
