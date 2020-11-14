@@ -15,7 +15,7 @@ frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
-$$\frac{{e}^{i\pi }}{23}+1=0$$
+$${e}^{i\pi }-23+1=0$$
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
