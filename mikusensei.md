@@ -4,6 +4,8 @@ https://www.icloud.com/iclouddrive/0nroymcT3Rkv1mkPHhlj45hCw#Economics%2C19e
 2
 3
 
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 <iframe src="//player.bilibili.com/player.html?aid=415363473&bvid=BV1hV411a7W9&cid=255776715&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
  
