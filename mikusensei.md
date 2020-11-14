@@ -15,7 +15,7 @@ frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
-$${e}^{i\pi }-23+1=0$$
+$$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$$
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
