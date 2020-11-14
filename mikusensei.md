@@ -6,6 +6,11 @@ https://www.icloud.com/iclouddrive/0nroymcT3Rkv1mkPHhlj45hCw#Economics%2C19e
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
+<script type="text/javascript" async
+src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js? 
+config=TeX-MML-AM_CHTML"
+</script>
+
 <iframe src="//player.bilibili.com/player.html?aid=415363473&bvid=BV1hV411a7W9&cid=255776715&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
  
