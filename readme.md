@@ -106,7 +106,7 @@ a=2，b=5，求3(ab+a)-4(a-ab)
 2x+y=1      ——整式方程
 
 
-![images](https://gitee.com/mikusensei/storehouse/blob/master/images/IMG_0051.png?raw=true)  ——分式方程
+![images](https://gitee.com/mikusensei/storehouse/raw/master/images/IMG_0051.png?raw=true)  ——分式方程
 
 * 整式方程中的**元**：未知数的种类
 * 整式方程中的**次**：方程中的项的最高次
@@ -119,6 +119,6 @@ x+1=6    ——一元一次方程
 
 xy=1   ——二元二次方程
 
-![images](https://gitee.com/mikusensei/storehouse/blob/master/images/IMG_0052.png?raw=ture)   ——分式方程
+![images](https://gitee.com/mikusensei/storehouse/raw/master/images/IMG_0052.png?raw=ture)   ——分式方程
 
 - - - -
